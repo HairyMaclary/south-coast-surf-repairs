@@ -190,7 +190,7 @@ footer p {
 @media(orientation: portrait) {
     body {
         background-color: #939aa0;
-        background-image:  url(./images/sunrisePortrait.jpg);
+        background-image:  url(./images/sunrisePortrait2.jpg);
         background-size: cover;
         font-size: 300%;
     }
