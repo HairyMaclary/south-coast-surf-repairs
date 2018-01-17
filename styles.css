@@ -40,12 +40,6 @@ header a {
     font-size: 1px;
 }
 
-@media (max-width: 900px) and (orientation: landscape) {
-    header {
-        margin: 5px auto;
-    }
-}
-
 #info {
     margin: auto;
     flex-basis: 70%;
@@ -56,8 +50,8 @@ header a {
     text-align: center;
 }
 
-#info :last-child {
-    margin-bottom: 0px;
+#info {
+    margin: 0px;
 }
 
 #info a {
@@ -182,6 +176,17 @@ footer p {
     color: white;
   }
 
+  @media (max-width: 900px) and (orientation: landscape) {
+    header {
+        margin: 5px auto;
+    }
+
+    footer a {
+        font-size: 3em;
+        min-height: 50px;
+    }
+}
+
 @media(orientation: portrait) {
     body {
         background-color: #939aa0;
@@ -190,6 +195,17 @@ footer p {
         font-size: 300%;
     }
 
+    #info a {
+        text-decoration-line: underline;
+    }
+
+    #info a, p {
+        color: black;
+    }
+
+    footer a {
+        color: antiquewhite;
+    }
     .copyright p {
         font-size: 200%;
     }
