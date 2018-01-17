@@ -2,7 +2,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: auto;
     width: 80%;
-    background-image: url(../images/pureSunTest.jpg);
+    background-image: url(./images/pureSunTest.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-color: #007bb5; 
@@ -28,8 +28,8 @@ header a {
 
 #headerLogo {
     margin: 10px auto;
-    width: 40%;
-    height: 40%;
+    width: 30%;
+    height: 30%;
     flex: 1;
 }
 
@@ -185,7 +185,7 @@ footer p {
 @media(orientation: portrait) {
     body {
         background-color: #939aa0;
-        background-image:  url(../images/sunrisePortrait.jpg);
+        background-image:  url(./images/sunrisePortrait.jpg);
         background-size: cover;
         font-size: 300%;
     }
