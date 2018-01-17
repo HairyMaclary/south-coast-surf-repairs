@@ -199,8 +199,8 @@ footer p {
         text-decoration-line: underline;
     }
 
-    #info a, p {
-        color: black;
+    #info a {
+        color: darkblue;
     }
 
     footer a {
