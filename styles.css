@@ -219,6 +219,10 @@ footer p {
         font-size: 300%;
     }
 
+    #info {
+        font-weight: bold;
+    }
+
     #info a {
         text-decoration-line: none;
     }
