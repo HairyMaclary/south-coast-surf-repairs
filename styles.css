@@ -225,14 +225,17 @@ footer p {
 
     #info a {
         color: darkblue;
+        text-decoration-line: underline;
     }
 
     #servicesLastPara {
         color: antiquewhite;
+        text-decoration-line: underline;
     }
 
     footer a {
         color: antiquewhite;
+        text-decoration-line: underline;
     }
     .copyright p {
         font-size: 200%;
