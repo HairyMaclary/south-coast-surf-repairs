@@ -12,11 +12,17 @@ body {
 }
 
 header {
-    margin: 20px auto;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
     display: flex;
     justify-content: center;
     flex-direction: column;
     /* text-align: center;   aligns the anchor (link) that now wraps the image */
+}
+
+#mainPageHeader {
+    margin: 20px auto;
 }
 
 header a {
@@ -27,7 +33,9 @@ header a {
 }
 
 #headerLogo {
-    margin: 10px auto;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
     width: 30%;
     height: 30%;
     flex: 1;
@@ -73,6 +81,18 @@ header a {
     flex: 1;
     padding-left: 5px;
     padding-right: 5px;
+}
+
+.youtube .vidContainer {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.vidContainer p {
+    margin: auto;
+    margin-bottom: 5px;
+    font-family: 'Indie Flower', cursive;
 }
 
 .quote {
