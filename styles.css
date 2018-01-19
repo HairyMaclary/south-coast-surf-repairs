@@ -222,6 +222,9 @@ footer p {
     #info {
         font-weight: bold;
     }
+    #info strong {
+        font-weight: bolder;
+    }
 
     #info a {
         text-decoration-line: none;
