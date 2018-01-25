@@ -243,6 +243,10 @@ footer p {
         color: antiquewhite;
         text-decoration-line: underline;
     }
+
+    footer p a {
+        justify-content: center;
+    }
     .copyright p {
         font-size: 200%;
     }
