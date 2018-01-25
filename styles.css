@@ -239,9 +239,18 @@ footer p {
         color: antiquewhite;
     }
 
+    footer {
+        display: flex;
+        justify-content: center;
+    }
+
     footer a {
         color: antiquewhite;
         text-decoration-line: underline;
+    }
+
+    footer p {
+        flex: 1;
     }
 
     footer p a {
