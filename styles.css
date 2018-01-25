@@ -251,11 +251,17 @@ footer p {
 
     footer p {
         flex: 1;
+        justify-content: center;
     }
 
     footer p a {
         justify-content: center;
     }
+
+    .silly {
+        font-size: 75%;
+    }
+
     .copyright p {
         font-size: 200%;
     }
