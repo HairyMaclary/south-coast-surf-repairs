@@ -259,9 +259,9 @@ footer p {
         font-size: 70%;
     }
 
-    /* footer p #silly {
-        font-size: 70%;
-    } */
+    footer p #silly {
+        font-size: 65%;
+    }
 
     .copyright p {
         font-size: 200%;
