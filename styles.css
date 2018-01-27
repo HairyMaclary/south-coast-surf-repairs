@@ -258,9 +258,9 @@ footer p {
         justify-content: center;
     } */
 
-    /* .silly {
-        font-size: 75%;
-    } */
+    .silly {
+        font-size: 0.75em;
+    }
 
     .copyright p {
         font-size: 200%;
