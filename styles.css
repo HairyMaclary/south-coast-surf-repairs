@@ -253,15 +253,15 @@ footer p {
     /* footer p {
         flex: 1;
         justify-content: center;
-    }
+    }*/
 
     footer p a {
-        justify-content: center;
-    } */
-
-    #silly {
         font-size: 70%;
     }
+
+    /* footer p #silly {
+        font-size: 70%;
+    } */
 
     .copyright p {
         font-size: 200%;
