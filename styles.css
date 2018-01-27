@@ -247,6 +247,7 @@ footer p {
     footer a {
         color: antiquewhite;
         text-decoration-line: underline;
+        font-size: 70%;
     }
 
     /* footer p {
