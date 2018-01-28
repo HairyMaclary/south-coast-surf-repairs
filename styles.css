@@ -247,7 +247,6 @@ footer p {
     footer a {
         color: antiquewhite;
         text-decoration-line: underline;
-        font-size: 70%;
     }
 
     /* footer p {
@@ -255,7 +254,7 @@ footer p {
         justify-content: center;
     }*/
 
-    footer p a {
+    #blobby p {
         font-size: 70%;
     }
 
