@@ -247,6 +247,7 @@ footer p {
     footer a {
         color: antiquewhite;
         text-decoration-line: underline;
+        word-wrap: break-word;
     }
 
     /* footer p {
@@ -256,7 +257,7 @@ footer p {
 
     #blobby p {
         font-size: 70%;
-    }
+     }
 
     footer p #silly {
         font-size: 100%;
